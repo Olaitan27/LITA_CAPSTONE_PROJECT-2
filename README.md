@@ -15,8 +15,7 @@ The primary Source of Data used here is LITA Capstone Dataset.xlsx
  
 - SQL- Structured Query Language for Querying of Data
 - Power Bi- for creating Dashboard
-- Github for portfolio Building
-
+  
 ### Data Cleaning and Praparation
  In this process,duplicates were Removed, the Data was filtered and sorted
 
